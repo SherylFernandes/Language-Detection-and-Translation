@@ -43,8 +43,8 @@ HTML, CSS for frontend styling</li>
   <li>
     <strong>Clone the Repository</strong>
     <pre>
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/SherylFernandes/multiple-disease-detection.git
+cd multiple-disease-detection
     </pre>
   </li>
 
